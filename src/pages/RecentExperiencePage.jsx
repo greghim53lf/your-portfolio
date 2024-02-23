@@ -1,10 +1,10 @@
 export default function RecentExperiencePage() {
   return (
-      <div>
+      <div className="page">
           <h1>Recent Experience</h1>
           <p>I am a product-oriented Software Engineer with a business mindset from bringing the latest tech to launching successful startups!</p>
           <div>
-              <h3>Chief Technology Officer Molly's Marketplace</h3>
+              <h3>Chief Technology Officer Molly&apos;s Marketplace</h3>
               <small>May 2022 - Aug 2022 (4 Months)</small>
               <dl>
                 <dt>Technical background:</dt>

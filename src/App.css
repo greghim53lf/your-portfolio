@@ -1,18 +1,16 @@
-:root{
-    --background-color: #0F1525;
+h2 {
+  font-size: 72px !important;
+  font-weight: 700;
+  background: -webkit-linear-gradient(right, #00a3ff, #00fff0);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
-*{
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+p {
+  color: #fff;
 }
 
-h2{
-    font-size: 72px !important;
-    font-weight: 700;
-    background: -webkit-linear-gradient(right, #00a3ff, #00fff0);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-
+.page {
+  background-color: var(--background-color);
 }

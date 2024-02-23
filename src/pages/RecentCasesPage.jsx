@@ -2,7 +2,7 @@ import RecentCase from '../components/RecentCase'
 
 export default function RecentCasesPage(){
     return(
-        <div>
+        <div className='page'>
             <h2>Recent Cases</h2>
             <p>I am a product-oriented Software Engineer with a business mindset from bringing the latest tech to launching successful startups!</p>
             <RecentCase/>

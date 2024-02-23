@@ -11,7 +11,7 @@ const styles = {
 
 export default function AboutPage(){
     return (
-        <div>
+        <div className='page'>
         <div style={styles.container}>
                 <img src={aboutMe} alt='a picture of me' style={styles.image}/>
                 <div>
